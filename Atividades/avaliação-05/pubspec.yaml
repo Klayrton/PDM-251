@@ -1,0 +1,9 @@
+name: atividade_4
+description: A simple Dart console app using SQLite3.
+version: 1.0.0
+
+environment:
+  sdk: "3.7.3"
+
+dependencies:
+  sqflite_common_ffi: ^2.0.0
