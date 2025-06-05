@@ -1,0 +1,40 @@
+{
+  "codigo": "PDV987",
+  "data": "2025-06-05T19:29:11.105477",
+  "valorPedido": 9100.0,
+  "cliente": {
+    "codigo": 202,
+    "nome": "Carlos Mendes",
+    "tipoCliente": 1
+  },
+  "vendedor": {
+    "codigo": 303,
+    "nome": "Luciana Prado",
+    "comissao": 7.25
+  },
+  "veiculo": {
+    "codigo": 505,
+    "descricao": "SUV Turbo 2.0",
+    "valor": 78000.0
+  },
+  "items": [
+    {
+      "sequencial": 1,
+      "descricao": "Teto Solar Panorâmico",
+      "quantidade": 1,
+      "valor": 4800.0
+    },
+    {
+      "sequencial": 2,
+      "descricao": "Central Multimídia",
+      "quantidade": 1,
+      "valor": 3200.0
+    },
+    {
+      "sequencial": 3,
+      "descricao": "Câmera de Ré",
+      "quantidade": 1,
+      "valor": 1100.0
+    }
+  ]
+}
